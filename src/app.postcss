@@ -1,0 +1,19 @@
+@import '@fontsource/great-vibes';
+@import '@fontsource/merriweather';
+@import '@fontsource/old-standard-tt';
+@import '@fontsource/open-sans';
+@import '@fontsource/roboto';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	html {
+		height: 100%;
+	}
+	body {
+		min-height: 100vh;
+		@apply h-full text-base sm:text-lg;
+	}
+}
