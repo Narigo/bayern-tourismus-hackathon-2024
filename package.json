@@ -17,7 +17,7 @@
 		"@fontsource/old-standard-tt": "^5.1.0",
 		"@fontsource/open-sans": "^5.1.0",
 		"@fontsource/roboto": "^5.1.0",
-		"@sveltejs/adapter-auto": "^3.3.1",
+		"@sveltejs/adapter-static": "^3.0.6",
 		"@sveltejs/kit": "^2.7.3",
 		"@sveltejs/vite-plugin-svelte": "^4.0.0",
 		"@tailwindcss/typography": "^0.5.15",
