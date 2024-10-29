@@ -24,7 +24,7 @@ overviewSnapshots: true
 
 ```yaml
 layout: image-right
-image: ./images/svelte-logo.svg
+image: /images/svelte-logo.svg
 ```
 
 ## Ideen
@@ -55,7 +55,7 @@ layout: cover
 
 ```yaml
 layout: image-right
-image: ./images/easy-walks.png
+image: /images/easy-walks.png
 ```
 
 <span class="text-sm">Was wurde aus...</span>
@@ -78,7 +78,7 @@ image: ./images/easy-walks.png
 
 ```yaml
 layout: image-right
-image: ./images/hiking-trips.png
+image: /images/hiking-trips.png
 ```
 
 <span class="text-sm">Was wurde aus...</span>
@@ -97,7 +97,7 @@ image: ./images/hiking-trips.png
 
 ```yaml
 layout: image-right
-image: ./images/robot.png
+image: /images/robot.png
 transition: none
 ```
 
@@ -111,7 +111,7 @@ transition: none
 
 ```yaml
 layout: image-right
-image: ./images/franzi-und-leni.webp
+image: /images/franzi-und-leni.webp
 transition: none
 ```
 
@@ -127,7 +127,7 @@ transition: none
 
 ```yaml
 layout: image-right
-image: ./images/duell.webp
+image: /images/duell.webp
 transition: none
 ```
 
@@ -144,7 +144,7 @@ transition: none
 
 ```yaml
 layout: image-right
-image: ./images/duell-ausgang-mit-kleidertausch.webp
+image: /images/duell-ausgang-mit-kleidertausch.webp
 transition: none
 ```
 
@@ -162,7 +162,7 @@ transition: none
 
 ```yaml
 layout: image-right
-image: ./images/detlef.webp
+image: /images/detlef.webp
 transition: none
 ```
 
@@ -181,7 +181,7 @@ transition: none
 
 ```yaml
 layout: image-right
-image: ./images/gewinnerin.webp
+image: /images/gewinnerin.webp
 transition: none
 ```
 
