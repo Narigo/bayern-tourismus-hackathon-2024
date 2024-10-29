@@ -39,6 +39,8 @@ jobs:
           pnpm run build
           cd hackathon-presentation
           pnpm run build --base /bayern-tourismus-hackathon-2024/hackathon-presentation --out ../build/hackathon-presentation
+        env:
+          BASE_PATH: '/bayern-tourismus-hackathon-2024'
 
       - uses: actions/configure-pages@v4
 
