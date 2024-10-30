@@ -39,7 +39,7 @@ jobs:
           pnpm run build
           cd hackathon-presentation
           pnpm run build --base /bayern-tourismus-hackathon-2024/hackathon-presentation/ --out ../build/hackathon-presentation
-          cp -r images ../build/
+          cp -r images ../build/hackathon-presentation/
         env:
           BASE_PATH: '/bayern-tourismus-hackathon-2024'
 
